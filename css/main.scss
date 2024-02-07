@@ -17,12 +17,12 @@
         color: #fff;
         &.slide01{
             .slide-bg-image{
-                background: url('/img/main_visual01.jpg');
+                background: url('../img/main_visual01.jpg');
             }
         }
         &.slide02{
             .slide-bg-image{
-                background: url('/img/main_visual01.jpg');
+                background: url('../img/main_visual01.jpg');
             }
         }
     }
@@ -174,7 +174,7 @@
                 position: absolute;
                 top: 0;
                 left: -30px;
-                background: url("/img/title_con.png")no-repeat top left/84px 84px;
+                background: url("../img/title_con.png")no-repeat top left/84px 84px;
                 width: 84px;
                 height: 84px;
             }
@@ -242,7 +242,7 @@
         position: relative;
     }
     .bg{
-        background-image: url("/img/rexm_bg.png");
+        background-image: url("../img/rexm_bg.png");
 
     }
     .title{
@@ -314,7 +314,7 @@
                 position: absolute;
                 top: 0;
                 left: -35px;
-                background: url("/img/title_con.png")no-repeat top left/84px 84px;
+                background: url("../img/title_con.png")no-repeat top left/84px 84px;
                 width: 84px;
                 height: 84px;
             }
@@ -338,16 +338,16 @@
 
 
             &.item01{
-                background: url("/img/main_item01.jpg")no-repeat center/cover;
+                background: url("../img/main_item01.jpg")no-repeat center/cover;
             }
             &.item02{
-                background: url("/img/main_item02.jpg")no-repeat center/cover;
+                background: url("../img/main_item02.jpg")no-repeat center/cover;
             }
             &.item03{
-                background: url("/img/main_item03.jpg")no-repeat center/cover;
+                background: url("../img/main_item03.jpg")no-repeat center/cover;
             }
             &.item04{
-                background: url("/img/main_item04.jpg")no-repeat center/cover;
+                background: url("../img/main_item04.jpg")no-repeat center/cover;
             }
             &:after{
                 content:"";
