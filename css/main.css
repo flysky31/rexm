@@ -10,10 +10,10 @@
   color: #fff;
 }
 .hero-slider .swiper-slide.slide01 .slide-bg-image {
-  background: url("/img/main_visual01.jpg");
+  background: url("../img/main_visual01.jpg");
 }
 .hero-slider .swiper-slide.slide02 .slide-bg-image {
-  background: url("/img/main_visual01.jpg");
+  background: url("../img/main_visual01.jpg");
 }
 .hero-slider .swiper-container {
   width: 100%;
