@@ -428,7 +428,12 @@ font-weight: bold;}
 .bo_list_head .w120{width:120px;text-align:center;}
 .bo_list_head .w_subject{text-align:center;}
 .bo_list_head .w50{width:80px;text-align:center;}
-.bo_list_head ul li{padding:15px 0;width:auto;display:table;width:100%;}
+.bo_list_head ul li{padding:15px 0;width:auto;display:table;width:100%;width: 100%;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+    margin: auto;
+    background: #F5F5F5;}
 .bo_list_head ul li span{float:left;text-align:center;}
 .bo_list_head ul li span.s-check{width:5%;}
 .bo_list_head ul li span.s-number{width:10%;}
